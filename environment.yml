@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - ipywidgets
+  - geopandas
+  - matplotlib
+  - cartopy
+  - folium
+  - pysal
+  - descartes
