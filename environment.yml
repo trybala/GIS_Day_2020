@@ -6,7 +6,6 @@ dependencies:
   - ipywidgets
   - geopandas
   - matplotlib
-  - cartopy
   - folium
   - pysal
   - descartes
